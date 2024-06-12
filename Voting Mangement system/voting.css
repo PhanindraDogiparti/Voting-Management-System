@@ -1,0 +1,238 @@
+.container {
+  background-color: #ffffff;
+}
+h1 {
+  text-align: center;
+  height: 50px;
+  margin-bottom: 5px;
+  padding-right: 3%;
+}
+h2 {
+  height: 30%;
+  margin-left: 15%;
+}
+.profile {
+  margin: auto;
+}
+.user {
+  display: flex;
+}
+
+#stat {
+  font-size: 1.7em;
+  margin-left: 1em;
+}
+.name {
+  font-size: 1.7em;
+  margin-left: 1em;
+}
+#results {
+  margin-left: 37%;
+  margin-top: 4%;
+  min-height: 4vh;
+  width: 15vh;
+  border-radius: 25px;
+}
+#user {
+  background-color: #d3d2cc;
+  height: 88vh;
+  width: 40%;
+  display: block;
+  float: left;
+}
+#parties {
+  background-color: #d3d2cc;
+  height: 98vh;
+  width: 57%;
+  display: block;
+  float: right;
+}
+#party {
+  display: flex;
+}
+#candidate1 {
+  display: block;
+  text-align: center;
+  margin-top: 4%;
+  margin-left: 6.9%;
+  
+  min-width: 50%;
+  padding: 10px 10px 10px 10px;
+  font-size: large;
+  background-color: aliceblue;
+}
+#partySymbol {
+  display: block;
+  margin-top: 5%;
+  margin-left: 5%;
+  font-size: 2em;
+}
+#redCircle1 {
+  display: block;
+  text-align: center;
+  margin-top: 5%;
+  margin-left: 5%;
+  font-size: 2em;
+}
+#candidate2 {
+  display: block;
+  text-align: center;
+  margin-top: 4%;
+  margin-left: 5%;
+  min-width: 50%;
+  padding: 10px 10px 10px 10px;
+  font-size: large;
+  background-color: aliceblue;
+}
+#redCircle2 {
+  display: block;
+  text-align: center;
+  margin-top: 5%;
+  margin-left: 5%;
+  font-size: 2em;
+}
+#candidate3 {
+  display: block;
+  text-align: center;
+  margin-top: 4%;
+  margin-left: 5%;
+  min-width: 50%;
+  padding: 10px 10px 10px 10px;
+  font-size: large;
+  background-color: aliceblue;
+}
+#redCircle3 {
+  display: block;
+  text-align: center;
+  margin-top: 5%;
+  margin-left: 5%;
+  font-size: 2em;
+}
+#candidate4 {
+  display: block;
+  margin-top: 4%;
+  text-align: center;
+  margin-left: 7%;
+  min-width: 50%;
+  padding: 10px 10px 10px 10px;
+  font-size: large;
+  background-color: aliceblue;
+}
+#redCircle4 {
+  display: block;
+  text-align: center;
+  margin-top: 5%;
+  margin-left: 5%;
+  font-size: 2em;
+}
+#candidate5 {
+  display: block;
+  margin-top: 4%;
+  text-align: center;
+  margin-left: 5%;
+  min-width: 50%;
+  padding: 10px 10px 10px 10px;
+  font-size: large;
+  background-color: aliceblue;
+}
+#redCircle5 {
+  display: block;
+  text-align: center;
+  margin-top: 5%;
+  margin-left: 5%;
+  font-size: 2em;
+}
+#candidate6 {
+  display: block;
+  text-align: center;
+  margin-top: 4%;
+  margin-left: 5%;
+  min-width: 50%;
+  padding: 10px 10px 10px 10px;
+  font-size: large;
+  background-color: aliceblue;
+}
+#redCircle6 {
+  display: block;
+  text-align: center;
+  margin-top: 5%;
+  margin-left: 5%;
+  font-size: 2em;
+}
+#candidate7 {
+  display: block;
+  text-align: center;
+  margin-top: 4%;
+  margin-left: 5%;
+  min-width: 50%;
+  padding: 10px 10px 10px 10px;
+  font-size: large;
+  background-color: aliceblue;
+}
+#redCircle7 {
+  display: block;
+  text-align: center;
+  margin-top: 5%;
+  margin-left: 5%;
+  font-size: 2em;
+}
+#candidate8 {
+  display: block;
+  text-align: center;
+  margin-top: 4%;
+  margin-left: 5%;
+  min-width: 50%;
+  padding: 10px 10px 10px 10px;
+  font-size: large;
+  background-color: aliceblue;
+}
+#redCircle8 {
+  display: block;
+  text-align: center;
+  margin-top: 5%;
+  margin-left: 5%;
+  font-size: 2em;
+}
+#votebutton1 {
+  margin-left: 5%;
+  margin-top: 4%;
+  width: 15vh;
+}
+#votebutton2 {
+  margin-left: 5%;
+  margin-top: 4%;
+  width: 15vh;
+}
+#votebutton3 {
+  margin-left: 5%;
+  margin-top: 4%;
+  width: 15vh;
+}
+#votebutton4 {
+  margin-left: 5%;
+  margin-top: 4%;
+  width: 15vh;
+}
+#votebutton5 {
+  margin-left: 5%;
+  margin-top: 4%;
+  width: 15vh;
+}
+#votebutton6 {
+  margin-left: 5%;
+  margin-top: 4%;
+  width: 15vh;
+}
+#votebutton7 {
+  margin-left: 5%;
+  margin-top: 4%;
+  width: 15vh;
+}
+#votebutton8 {
+  margin-left: 5%;
+  margin-top: 4%;
+  width: 15vh;
+}
+#fa-solid {
+  margin-top: 50%;
+}
